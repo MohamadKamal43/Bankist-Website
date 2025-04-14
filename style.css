@@ -494,9 +494,6 @@ p{
 
   }
   .nav-links {
-    align-items: center;
-    justify-content: center;
-    width: 100%;
     display: none;
   }
   .nav-item {
